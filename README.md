@@ -4,6 +4,7 @@ Hi! I'm Mahsa Hemmati, a 6th-semester Computer Engineering student. I'm still in
 UI/UX fundamentals
 Web design principles
 Python programming
+
 🚀 My Goal:
 To turn my passion for design and coding into real projects and keep growing step by step.
 
